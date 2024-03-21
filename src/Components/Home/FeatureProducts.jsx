@@ -12,7 +12,7 @@ const FeatureProducts = () => {
             <h2 className='text-4xl font-bold text-center'>Our Feature Item</h2>
             <button className='ml-[820px] bg-gray-300 p-2 rounded-lg font-medium'>See All</button>
             
-            <div className='flex justify-between w-1/2 mx-auto mt-5 bg-yellow-500 p-5 rounded-lg'>
+            <div className='flex justify-between items-center h-[130px] w-1/2 mx-auto mt-5 bg-yellow-500 p-5 rounded-lg'>
                 <div>
                     <img className='w-[70px] h-[70px] rounded-full hover:w-[100px] hover:h-[100px]' src={img1} title='watch' alt="" />
                 </div>

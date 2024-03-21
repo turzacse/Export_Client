@@ -5,7 +5,6 @@ import { PiGlobeLight } from "react-icons/pi";
 const Feature = () => {
     return (
         <div>
-            This is feature sections
             <div className='relative'>
             <div className='w-2/3 mx-auto h-[200px] bg-yellow-500 flex items-center justify-center rounded-lg'>
                 <h2 className='text-5xl font-semibold'>Love in faith</h2>

@@ -1,13 +1,14 @@
 import React from 'react';
 import Header from '../../Components/Home/Header';
 import Feature from '../../Components/Home/Feature';
+import FeatureProducts from '../../Components/Home/FeatureProducts';
 
 const Home = () => {
     return (
         <div>
-            This is home
             <Header/>
             <Feature/>
+            <FeatureProducts/>
         </div>
     );
 };

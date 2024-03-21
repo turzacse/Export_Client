@@ -3,8 +3,7 @@ import { Outlet } from 'react-router-dom';
 
 const Root = () => {
     return (
-        <div className='max-w-[1440px] mx-auto h-screen bg-gray-200 px-5'>
-            Its the main layout of the website
+        <div className='max-w-[1440px] mx-auto pb-96 bg-gray-200 px-5 pt-10'>
             <Outlet/>
         </div>
     );
